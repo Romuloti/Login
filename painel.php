@@ -1,4 +1,12 @@
-<meta charset='UTF-8'>
+<!Doctype html>
+<head>
+	<meta charset='UTF-8'>
+	<meta name="keywords" content="Palavras chaves">
+	<meta name="author" content="Romulo de Oliveira Azevedo">
+	
+</head>	
+<body>
+
 <?php
 	if(!isset($_SESSION)) session_start();
 	
@@ -11,4 +19,6 @@
 	echo "Olá, ".$_SESSION['usuario'];
 	echo "<a href='logout.php'>Sair</a>";
 ?>
-Teste
+	
+</body>
+</html>
