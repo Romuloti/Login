@@ -2,7 +2,7 @@
 <head>
 	<meta charset='UTF-8'>
 	<meta name="keywords" content="Palavras chaves">
-	<meta name="author" content="Romulo de Oliveira Azevedo">
+<!-- 	<meta name="author" content="Romulo de Oliveira Azevedo"> -->
 	
 </head>	
 <body>
